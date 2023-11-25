@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://mostafabesher-portofolio.netlify.app](https://mostafabesher-portofolio.netlify.app)
 
