@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Besher</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">Frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 - 🔭 I’m currently working on **e-commerce website**
