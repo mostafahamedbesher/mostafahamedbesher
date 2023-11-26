@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://mostafabesher-portofolio.netlify.app](https://mostafabesher-portofolio.netlify.app)
 
