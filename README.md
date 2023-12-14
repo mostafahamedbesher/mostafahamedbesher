@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://mostafabesher-portofolio.netlify.app](https://mostafabesher-portofolio.netlify.app)
+- 👨‍💻 All of my projects are available at [[https://mostafabesher-portofolio.netlify.app](https://github.com/mostafahamedbesher)]
 
 - 💬 Ask me about **React, Javascript, CSS**
 
