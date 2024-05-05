@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Dashboard website**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/mostafahamedbesher](https://github.com/mostafahamedbesher)]
 
