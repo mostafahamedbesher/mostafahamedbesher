@@ -2,13 +2,13 @@
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
-- 🔭 I’m currently working on **Hotel Reservations website**
+- 🔭 I’m currently working on **Ecommerce Men's clothes store**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [[https://mostafa-besher.netlify.app/]
 
-- 💬 Ask me about **React, Javascript, CSS, HTML**
+- 💬 Ask me about **Next.js, React, Javascript, CSS, HTML**
 
 - 📫 How to reach me **mostafabesher222@gmail.com**
 
