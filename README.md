@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
-- 🔭 I’m currently working on **Ecommerce Men's clothes store**
+- 🔭 I’m currently working on **Ecommerce Dashboard**
 
 - 🌱 I’m currently learning **Next.js**
 
